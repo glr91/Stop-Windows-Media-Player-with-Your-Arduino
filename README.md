@@ -1,4 +1,4 @@
-##Instructions for use
+## Instructions for use
 
 	1. Load 'infrared_sensor.ino' in your Arduino.
 
